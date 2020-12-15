@@ -1,6 +1,5 @@
-
-/* body {
-    font-family: sans-serif;
+/* * {
+    border: 1px solid black;
 } */
 
 .macdonald {
@@ -49,7 +48,6 @@ a:visited {
     padding: 12px 30px;
     border-radius: 5px ;
     border: 1px solid white;
-
 }
 
 .donald {
@@ -115,7 +113,6 @@ a:visited {
 
 .mac-text p {
     color: #292929;
-
 }
 
 .mac-text2,
@@ -181,11 +178,71 @@ footer {
 
 .foot-icon ul li {
     display: inline;
-    margin: 20px;
+    margin: 10px;
 }
 
 .foot-icon img {
     margin: 0 15px;
+}
+
+.but-1 {
+    padding: 8px 12px;
+}
+
+.but-1:hover {
+    background-color: #006bae;
+}
+
+.but-2,
+.but-3 {
+    padding: 9px 10px;
+}
+
+.but-2:hover {
+    background-color: #2fb4f1;
+}
+
+.but-3:hover {
+    background-color: #d11b1b;
+}
+
+.but-4,
+.but-5,
+.but-6 {
+    padding: 9px 12px;
+}
+
+.but-4:hover {
+    background-color: #e21977;
+}
+
+.but-5:hover {
+    background-color: #370372;
+}
+
+.but-1:hover,
+.but-2:hover,
+.but-3:hover,
+.but-4:hover,
+.but-5:hover,
+.but-6:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.but-1,
+.but-2,
+.but-3,
+.but-4,
+.but-5,
+.but-6 {
+    border: 1px solid rgb(202, 197, 197);
+    background-color: white;
+    border-radius: 50%;
+}
+
+.but-6:hover {
+    background-color: #06b331;
 }
 
 .hr-foot {
@@ -196,7 +253,6 @@ footer {
 
 .finish-foot {
     display: flex;
-    /* justify-content: space-evenly; */
 }
 
 .finish-foot ul li {
@@ -206,18 +262,5 @@ footer {
 
 .finish-p {
     margin-left: 73px;
+    margin-bottom: 50px;
 }
-/* .fa-spotify,
-.fa-tumblr,
-.fa-instagram,
-.fa-youtube,
-.fa-twitter,
-.fa-facebook-f {
-    border-radius: 50%;
-    border: 1px solid rgb(197, 190, 190);
-    padding: 8px 11px;
-} */
-
-/* * {
-    border: 1px solid black;
-} */
