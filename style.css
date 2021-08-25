@@ -264,3 +264,22 @@ footer {
     margin-left: 73px;
     margin-bottom: 50px;
 }
+
+
+@media only screen and (max-width: 768px) {
+  .mac {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .mac-left,
+  .mac-right {
+    display: none;
+  }
+
+  .mac-logo {
+    width: 100px;
+    height: 50px;
+  }
+
+}
