@@ -3,161 +3,161 @@
 } */
 
 .macdonald {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 .mac {
-    display: flex;
-    justify-content: space-evenly;
-    margin-left: 88px;
-    position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 88px;
+  position: relative;
 }
 
 .mac-left {
-    margin-top: 8px;
+  margin-top: 8px;
 }
 
 .mac-left ul li,
 .mac-right ul li {
-    display: inline;
-    margin: 5px 15px;
-    font-size: 14px;
+  display: inline;
+  margin: 5px 15px;
+  font-size: 14px;
 }
 
 .fa-chevron-down,
 .fa-search,
 .fa-map-marker-alt {
-    margin: 5px;
+  margin: 5px;
 }
 
 .fa-map-marker-alt {
-    color: red;
+  color: red;
 }
 
 a:link {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 a:visited {
-    color: black;
+  color: black;
 }
 
 .mac-button {
-    background-color: #ffbc0d;
-    padding: 12px 30px;
-    border-radius: 5px ;
-    border: 1px solid white;
+  background-color: #ffbc0d;
+  padding: 12px 30px;
+  border-radius: 5px;
+  border: 1px solid white;
 }
 
 .donald {
-    display: flex;
-    margin-left: 210px;
+  display: flex;
+  margin-left: 210px;
 }
 
 .donald ul li {
-    display: inline;
-    margin: 5px 15px;
-    font-weight: 500;
+  display: inline;
+  margin: 5px 15px;
+  font-weight: 500;
 }
 
 .mac-logo {
-    position: absolute;
-    top: 27px;
-    left: 110px;
+  position: absolute;
+  top: 27px;
+  left: 110px;
 }
 
 .mac-title {
-    padding: 90px 0;
-    font-size: 50px;
-    text-align: center;
-    font-weight: 900;
-    font-family: sans-serif;
+  padding: 90px 0;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 900;
+  font-family: sans-serif;
 }
 
 .mac-main,
 .don-main {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .don-main {
-    margin-top: 100px;
+  margin-top: 100px;
 }
 
 .mac-photo,
 .don-photo {
-    width: 750px;
+  width: 750px;
 }
 
 .don-photo {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 
 .mac-text {
-    width: 320px;
-    margin-left: 30px;
+  width: 320px;
+  margin-left: 30px;
 }
 
 .don-text {
-    width: 320px;
-} 
+  width: 320px;
+}
 
 .card-main h2,
 .mac-text h2,
 .don-text h2 {
-    font-weight: 900;
-    font-family: sans-serif;
-    font-size: 30px;
+  font-weight: 900;
+  font-family: sans-serif;
+  font-size: 30px;
 }
 
 .mac-text p {
-    color: #292929;
+  color: #292929;
 }
 
 .mac-text2,
 .don-text2 {
-    font-size: 12px;
+  font-size: 12px;
 }
 
 .mac-text-button {
-    background-color: #ffbc0d;
-    margin-top: 20px;
-    padding: 12px 30px;
-    border-radius: 5px ;
-    border: 1px solid white;    
+  background-color: #ffbc0d;
+  margin-top: 20px;
+  padding: 12px 30px;
+  border-radius: 5px;
+  border: 1px solid white;
 }
 
 .mac-text-button span {
-    font-family: sans-serif;
-    font-size: 15px;
+  font-family: sans-serif;
+  font-size: 15px;
 }
 
 .bur-main {
-    display: flex;
-    justify-content: center;
-    margin-top: 90px;
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
 }
 
 .card-main {
-    width: 360px;
-    margin: 15px;
+  width: 360px;
+  margin: 15px;
 }
 
 footer {
-    margin-top: 90px;
+  margin-top: 90px;
 }
 
 .foot-main-1 {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .foot-main-1 ul li {
-    list-style-type: none;
-    padding: 5px;
-    font-size: 16px;
-    font-family: sans-serif;
+  list-style-type: none;
+  padding: 5px;
+  font-size: 16px;
+  font-family: sans-serif;
 }
 
 .foot-1,
@@ -165,59 +165,59 @@ footer {
 .foot-3,
 .foot-4,
 .foot-5 {
-    width: 200px;
+  width: 200px;
 }
 
 .foot-icon {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 50px;
-    width: 90%;
-    margin-left: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  width: 90%;
+  margin-left: 40px;
 }
 
 .foot-icon ul li {
-    display: inline;
-    margin: 10px;
+  display: inline;
+  margin: 10px;
 }
 
 .foot-icon img {
-    margin: 0 15px;
+  margin: 0 15px;
 }
 
 .but-1 {
-    padding: 8px 12px;
+  padding: 8px 12px;
 }
 
 .but-1:hover {
-    background-color: #006bae;
+  background-color: #006bae;
 }
 
 .but-2,
 .but-3 {
-    padding: 9px 10px;
+  padding: 9px 10px;
 }
 
 .but-2:hover {
-    background-color: #2fb4f1;
+  background-color: #2fb4f1;
 }
 
 .but-3:hover {
-    background-color: #d11b1b;
+  background-color: #d11b1b;
 }
 
 .but-4,
 .but-5,
 .but-6 {
-    padding: 9px 12px;
+  padding: 9px 12px;
 }
 
 .but-4:hover {
-    background-color: #e21977;
+  background-color: #e21977;
 }
 
 .but-5:hover {
-    background-color: #370372;
+  background-color: #370372;
 }
 
 .but-1:hover,
@@ -226,8 +226,8 @@ footer {
 .but-4:hover,
 .but-5:hover,
 .but-6:hover {
-    color: white;
-    cursor: pointer;
+  color: white;
+  cursor: pointer;
 }
 
 .but-1,
@@ -236,35 +236,34 @@ footer {
 .but-4,
 .but-5,
 .but-6 {
-    border: 1px solid rgb(202, 197, 197);
-    background-color: white;
-    border-radius: 50%;
+  border: 1px solid rgb(202, 197, 197);
+  background-color: white;
+  border-radius: 50%;
 }
 
 .but-6:hover {
-    background-color: #06b331;
+  background-color: #06b331;
 }
 
 .hr-foot {
-    width: 1170px;
-    margin-left: 80px;
-    margin-top: 50px;
+  width: 1170px;
+  margin-left: 80px;
+  margin-top: 50px;
 }
 
 .finish-foot {
-    display: flex;
+  display: flex;
 }
 
 .finish-foot ul li {
-    display: inline;
-    margin: 10px 32px;
+  display: inline;
+  margin: 10px 32px;
 }
 
 .finish-p {
-    margin-left: 73px;
-    margin-bottom: 50px;
+  margin-left: 73px;
+  margin-bottom: 50px;
 }
-
 
 @media only screen and (max-width: 768px) {
   .mac {
@@ -281,5 +280,4 @@ footer {
     width: 100px;
     height: 50px;
   }
-
 }
